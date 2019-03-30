@@ -7,36 +7,29 @@ html, body {
   margin: 0;
   height: 100%;
   font-family: SundayMorning;
+  overflow: hidden;
 }
 
-header {
-  margin: 0;
-}
 #title img{
   width: 100%;
 }
 nav {
   text-align: center;
-  margin: 0 auto;
-  width: 50%;
 }
 nav a {
-  margin: 0 auto;
   color: black;
+  margin: 0 auto;
 }
 .side div {
-  margin-top: 2em;
-  margin-bottom: 0;
   padding: 2em;
-}
-main img {
-  width: 100%;
 }
 main {
   /* background-image: url("assets/barbackground.png");
   background-repeat: no-repeat;
   background-size: cover; */
+  position: relative;
+  height: 100%;
 }
-footer {
-  margin: 0;
+#background {
+  height: 100%;
 }
