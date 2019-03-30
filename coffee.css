@@ -1,6 +1,12 @@
+@font-face {
+  font-family: SundayMorning;
+  src: url("assets/fonts/Sunday\ Morning.otf") format("opentype");
+}
+
 html, body {
   margin: 0;
   height: 100%;
+  font-family: SundayMorning;
 }
 
 header {
@@ -12,9 +18,16 @@ header {
 nav {
   text-align: center;
   margin: 0 auto;
+  width: 50%;
 }
 nav a {
   margin: 0 auto;
+  color: black;
+}
+.side div {
+  margin-top: 2em;
+  margin-bottom: 0;
+  padding: 2em;
 }
 main img {
   width: 100%;
