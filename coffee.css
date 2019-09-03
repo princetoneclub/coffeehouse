@@ -3,19 +3,28 @@
   src: url("assets/fonts/Sunday\ Morning.otf") format("opentype");
 }
 
+@font-face {
+  font-family: BillyLowercase;
+  src: url("assets/fonts/billy.ttf") format("opentype");
+}
+
+
 html, body {
   margin: 0;
   height: 100%;
-  font-family: SundayMorning;
+  font-family: BillyLowercase;
+}
+
+body {
+  background-color: #f2ebdc;
 }
 
 #titlebar, #title, #left-content-div, #right-content-div {
-  height: 140px;
+  height: 200px;
 }
 
 #title img{
   width: 400px;
-  padding-top: 14px;
 }
 
 #navlinks {
@@ -43,7 +52,7 @@ html, body {
 }
 
 a:hover, a {
-  color: #ff9870;
+  color: #fa5f0c;
 }
 
 nav {

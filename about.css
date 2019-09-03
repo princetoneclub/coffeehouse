@@ -12,16 +12,16 @@
 }
 
 #blurb-text {
-  font-size: 20px;
+  font-size: 25px;
   text-align: left;
-  font-family: 'Caveat Brush', cursive;
+  font-family: BillyLowercase;
 }
 
 #blurb-title {
-  font-size: 25px;
+  font-size: 35px;
   text-decoration: bold;
   text-align: center;
-  font-family: 'Caveat Brush', cursive;
+  font-family: BillyLowercase;
 }
 
 nav {
