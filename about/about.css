@@ -15,6 +15,7 @@
   font-size: 25px;
   text-align: left;
   font-family: Billy;
+  line-height: 25px;
 }
 
 #blurb-title {
@@ -22,6 +23,7 @@
   text-decoration: bold;
   text-align: center;
   font-family: Westfalia;
+  color: #010A26;
 }
 
 nav {
