@@ -14,8 +14,8 @@
 }
 
 @font-face {
-  font-family: WestfaliaRegular;
-  src: url("assets/fonts/westfalia-regular.ttf") format("opentype");
+  font-family: Westfalia;
+  src: url("assets/fonts/westfalia-regular.otf") format("opentype");
 }
 
 
