@@ -88,6 +88,10 @@ nav a {
   font-family: Parker;
 }
 
+nav a:hover {
+  color: #fa5f0c;
+}
+
 .side div {
   padding: 2em;
 }
