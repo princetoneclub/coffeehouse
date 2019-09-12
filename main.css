@@ -66,8 +66,13 @@ body {
   font-family: Parker;
 }
 
-a:hover, a {
+a {
   color: #fa5f0c;
+}
+
+a:hover {
+  color: #ad4309;
+  text-decoration: none;
 }
 
 nav {
